@@ -1,8 +1,8 @@
 # 🌌 Knowledge Composer
 
-> **The desktop studio for the Knowledge Cosmos Ecosystem.**
+> **A desktop context development environment for the Knowledge Cosmos Ecosystem.**
 
-**Knowledge Composer** is a local-first macOS application designed for creating, exploring, sharing, and engaging context-based publications, animations, simulations, and games. It enables developers, authors, and worldbuilders to create deep-context trees of raw Markdown that are interpreted into dynamic, interactive agentic networks. By composing a grid of elements—which combine written articles, prompts, presentation designs, and scripted behaviors—interactive simulations and complex publications are composed entirely as plain text.
+Knowledge Composer is a local-first macOS environment for creating, exploring, and sharing context-based publications, simulations, and games. It enables developers, authors, and world builders to organize deep-context trees of Markdown and media into dynamic, interactive networks. Animation creators can test properties and triggers, while media and web content can be displayed across a paintable game map. Simulations are powered by a lightweight scripting engine, and the underlying element model provides a robust structure for managing input, analysis, publications, and deployment via an integrated web server. Experiences can be shared as complete samples or as curated, stripped-down flows. Through pervasive element-oriented substitution, the system eliminates content redundancy. By operating alongside AI development environments, the file-system-as-repository allows generated assets to be fully addressable across the Knowledge Cosmos. Element addressability and resuse makes AI output reliable, reusable, and reproducible. By synthesizing folders of Markdown, animation, and media with scripted behaviors in a grid of elements, Knowledge Composer empowers users to build intricate solutions and publications. Join the Knowledge Cosmos today with Knowledge Composer.
 
 [🌐 Visit Pattern Realms](https://patternrealms.com) | [⚖️ Terms of Use](https://patternrealms.com/terms_and_conditions.html)
 
@@ -10,29 +10,34 @@
 
 ## 🚀 Knowledge Composition Made Simple
 
-* **Knowledge Composer Studio:** A local-first editor for composing elements in visual grids, with a seamless flow from raw input to published documents and interactive simulations.
-* **The Infinite Castle Model:** A universal, open-source pattern language where every piece of data is represented as an addressable, deeply structured **Element** (Quest, Concept, Publication).
-* **Element-Oriented Substitution:** Effortlessly embed and swap live values across a massive text architecturen intuitive Markdown syntax: `~payload~` and `~verse~` (overloading the standard strikeout tag).*G **Gameb **Gameblazer Simulation** An event-driven dispatch queue that allows interactive tiles to communicate, process logic,  state statea andeal-time graphical animations.
-* **Darthawk Scripting Gateway:** Write local Dart scripts inside Element directives to trigger system operations, execute terminal commands, perform secure HTTP queries, and interact with the macOS sandbox.
-* **Totally Local Markdowte Plaintext:** Every Universe, World, and Realm is saved as clean Markdown, JSON, and YAML directly on your hard drive. Modify your models in the Composer, or edit them in any external AI-enabledonment such as Anitgravity, VS Ce. The fi Cursor,le  Claude. The file system is your database.
-* **Integrated Update & Discovery:** Instantly pull curated updates and expansions from remote GitHub repositories. Our non-destructive update system merges new worlds and realms as duplicate files, ensuring your local edits are never overwritten.owledge composistions.
+Knowledge Composer provides a Technical Stack for creating advanced solutions:
 
-## 🛠️ Knowledge Network Structure 
+* **Knowledge Composer:** Context editor and organizer for composing elements with visual designs to create a seamless flow from ideas and input to published documents and interactive simulations.
+* **Infinite Castle Model:** A universal pattern language where every piece of data is represented as an addressable **Element** object composed of markdown text and properties, visual design, animations, media, and guides.
+* **Element-Oriented Substitution:** Effortlessly embed linked values across a massive text architecture using intuitive Markdown syntax: `~payload~` and `~verse~` (overloading the standard strikeout tag). Generate once, use anywhere.
+* **Gameblazer Simulation Engine** An event-driven dispatch queue that allows tiles to communicate, process logic, and state with interactive contro of real-time graphical animations and media.
+* **Darthawk Scripting Gateway:** Write local Dart scripts inside Element directives to trigger system operations, read and write files in the sandbox, perform HTTP requests, and interact with other elements.
+* **Totally Local Markdown Repository:** Every Universe, World, and Realm is saved as Markdown with YAML directly on your hard drive. Modify your models in the Knowlege Composer, or edit files with any AI-enabled development environment such as Anitgravity, VS Code and Clause. The file system is your database.
+* **Effortless Sharing and Discovery:** Publish content instantly in a local web server, with automated or link-based discovery. Publish the entire context behind the document or simulation. Instantly merge updates and expansions from remote content nodes to experience or modify simulations. Reprint a univese, world or realm with one click.
 
-Knowledge Composer structures your local workspace to scale securely from single articles to
- multiversal networks:
+## 🛠️ Ecosystem of Realms of Elements
+
+Knowledge Composer creates an ecosystem where your local foundry is a factory for creating elements in in a realm in a world in a universe.
+
 ```text
 Ecosystem ──► Origin (Your Node) ──► Foundry (Your Factory) ──► Universe ──► World ──► Realm ──► Element
 ```
+
+This structure is reflected in the file system and each world or realm can be fully self contained and transportable.
 
 ---
 
 ## ⚖️ License & Source-Available Strategy
 
-This repository contains the binary for Knowledge Composer macOS client. Over time selected components will be converted to source-available or open source editions.
+This repository contains the proprietary binary for Knowledge Composer macOS client.
 
-* The sample universes and imprints are fully Open Source as CC BY. 
+* The provided sample universes and imprints are fully Open Source as CC BY. Creating and sharing Open Source content is recommended.
 
-* The software, graphical layout editor, simulation runtime, are a proprietary license. A validated **Power-Up Key** from [Pattern Realms](https://patternrealms.com) is required to unlock Knowledge Composer.
+* The software, graphical layout editor, simulation runtime, are a proprietary license. A validated **Power-Up Key** from [Pattern Realms](https://patternrealms.com) is required to unlock Knowledge Composer. Please review our [Terms and Conditions](https://patternrealms.com/terms_and_conditions.html).
 
-*Designed and engineered by Pattern Realms LLC. Play Fair, Build True.*
+*Designed and created by Pattern Realms LLC. Play Fair, Build True.*
