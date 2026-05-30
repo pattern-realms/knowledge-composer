@@ -17,13 +17,13 @@ Knowledge Composer provides a complete technical stack for creating advanced sol
 * **Element-Oriented Substitution:** Effortlessly embed linked values across a massive text architecture using intuitive Markdown syntax: `~payload~` and `~verse~` (overloading the standard strikeout tag). Generate once, use anywhere.
 * **Gameblazer Simulation Engine** An event-driven dispatch queue that allows tiles to communicate, process logic, and state with interactive control of real-time graphical animations and media.
 * **Darthawk Scripting Gateway:** Write local Dart scripts inside Element directives to trigger system operations, read and write files in the sandbox, perform HTTP requests, and interact with other elements.
-* **Totally Local Markdown Repository:** Every Universe, World, and Realm is saved as Markdown with YAML directly on your hard drive. Modify your models in the Knowledge Composer, or edit files with any AI-enabled development environment such as Anitgravity, VS Code and Claude. The file system is your database.
+* **Totally Local Markdown Repository:** Every Universe, World, and Realm is saved as Markdown with YAML directly on the local file system. Modify models in the Knowledge Composer, or edit files with any AI-enabled development environment such as Anitgravity, VS Code and Claude. The file system is your database.
 * **Effortless Sharing and Discovery:** Publish content instantly in the integrated web server, with automated or link-based discovery.  Instantly merge updates and expansions from remote content nodes. Reprint a universe, world or realm with one click.
 * **Show Your Work** Publish the entire context and creation path used to build a document or simulation. Provide content, full sample reprints, or flow imprints to share and evolve ideas in a cosmos of creativity.
 
 ## 🛠️ Ecosystem of Realms of Elements
 
-Knowledge Composer creates an ecosystem where your local foundry is a factory for creating elements in in a realm in a world in a universe.
+Knowledge Composer creates an ecosystem where your local foundry is a factory for creating elements in a realm in a world in a universe.
 
 ```text
 Ecosystem ──► Origin (Your Node) ──► Foundry (Your Factory) ──► Universe ──► World ──► Realm ──► Element
