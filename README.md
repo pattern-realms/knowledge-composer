@@ -41,6 +41,8 @@ This repository contains the proprietary binary for Knowledge Composer macOS cli
 
 * **Proprietary Software** The software, graphical layout editor, simulation runtime, and composition engine are provided under a proprietary license. A validated **Power-Up Key** from [Pattern Realms](https://patternrealms.com) is required to unlock Knowledge Composer. Please review our [Terms and Conditions](https://patternrealms.com/terms_and_conditions.html). Specifically the terms and conditions limit reverse engineering for the purpose of reproducing the software, a well-being mandate, and zero liability waivers.
 
-*Designed and created by Pattern Realms LLC. Play Fair, Build True.*
-
 *Knowledge Cosmos, Knowledge Composer, Infinite Castle Model, Darthawk and Gameblazer are trademarks of Pattern Realms LLC. All other trademarks, logos, and brand names are the property of their respective owners.*
+
+*Disclaimer: The software, content, and associated materials in this repository are provided "as is" without warranty of any kind. For full limitations of liability and terms, please refer to the LICENSE.md file and our official Terms and Conditions.*
+
+*Designed and created by Pattern Realms LLC. Play Fair, Build True.*
