@@ -13,7 +13,7 @@ Knowledge Composer™ is a local-first macOS environment for creating, exploring
 Knowledge Composer provides a complete technical stack for creating advanced solutions:
 
 * **Knowledge Composer:** Context editor and organizer for composing elements with visual designs to create a seamless flow from ideas and input to published documents and interactive simulations.
-* **Infinite Castle Model™:** A universal pattern language where every piece of data is represented as an addressable **Element** object composed of markdown text and properties, visual design, animations, media, and guides.
+* **Element Castle Model™:** A universal pattern language where every piece of data is represented as an addressable **Element** object composed of markdown text and properties, visual design, animations, media, and guides.
 * **Element-Oriented Substitution:** Effortlessly embed linked values across a massive text architecture using intuitive Markdown syntax: `~payload~` and `~verse~` (overloading the standard strikeout tag). Generate once, use anywhere.
 * **Gameblazer™ Simulation Engine** An event-driven dispatch queue that allows tiles to communicate, process logic, and state with interactive control of real-time graphical animations and media.
 * **Darthawk™ Scripting Gateway:** Write local Dart scripts inside Element directives to trigger system operations, read and write files in the sandbox, perform HTTP requests, and interact with other elements.
@@ -41,7 +41,7 @@ This repository contains the proprietary binary for Knowledge Composer macOS cli
 
 * **Proprietary Software** The software, graphical layout editor, simulation runtime, and composition engine are provided under a proprietary license. A validated **Power-Up Key** from [Pattern Realms](https://patternrealms.com) is required to unlock Knowledge Composer. Please review our [Terms and Conditions](https://patternrealms.com/terms_and_conditions.html). Specifically the terms and conditions limit reverse engineering for the purpose of reproducing the software, a well-being mandate, and zero liability waivers.
 
-*Knowledge Cosmos, Knowledge Composer, Infinite Castle Model, Darthawk and Gameblazer are trademarks of Pattern Realms LLC. All other trademarks, logos, and brand names are the property of their respective owners.*
+*Knowledge Cosmos, Knowledge Composer, Element Castle Model, Darthawk and Gameblazer are trademarks of Pattern Realms LLC. All other trademarks, logos, and brand names are the property of their respective owners.*
 
 *Disclaimer: The software, content, and associated materials in this repository are provided "as is" without warranty of any kind. For full limitations of liability and terms, please refer to the LICENSE.md file and our official Terms and Conditions.*
 
